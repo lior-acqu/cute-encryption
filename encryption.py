@@ -88,3 +88,4 @@ def decrypt(encryptedName):
     print("Please enter a real word to encrypt.")
 
 
+encrypt(input("Please enter the term you want to encrypt: "))
